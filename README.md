@@ -37,7 +37,7 @@ Aqui vai alguns comandos básicos do <a href="https://git-scm.com/book/pt-br/v1/
 
 * **git checkout -b nomebranch** - PARA EXCLUIR UMA BRANCH
 
-## GIT FLOW:**
+## GIT FLOW:
 
 O <a href="https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04">Git Flow</a> é uma forma organizada de fazermos o versionamento dos nossos projetos.
 
