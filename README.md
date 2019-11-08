@@ -1,5 +1,5 @@
 # Comandos-Git
-Aqui vai alguns comandos básicos do <a href="https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git">GIT</a> para iniciantes: ❤️
+Aqui vai alguns comandos básicos do <a href="https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git" target="_blank">GIT</a> para iniciantes: ❤️
 
 * **git init** - INICIALIZA UM REPOSITÓRIO GIT NO SEU PC
 
@@ -39,7 +39,7 @@ Aqui vai alguns comandos básicos do <a href="https://git-scm.com/book/pt-br/v1/
 
 ## GIT FLOW:
 
-O <a href="https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04">Git Flow</a> é uma forma organizada de fazermos o versionamento dos nossos projetos.
+O <a href="https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04" target="_blank">Git Flow</a> é uma forma organizada de fazermos o versionamento dos nossos projetos.
 
 * **git flow init** (para iniciar o Git Flow)
 * **git flow feature start NomeBranch** (para criar uma nova branch)
