@@ -3,7 +3,7 @@ Aqui vai alguns comandos básicos do <a href="https://git-scm.com/book/pt-br/v1/
 
 * **git init** - INICIALIZA UM REPOSITÓRIO GIT NO SEU PC
 
-* **git clone https://isabelamazeto@bitbucket.org/isabelamazeto/teste.git** - COPIA UM REPOSITÓRIO GIT NO SEU PC - MASTER
+* **git clone https://github.com/IsabelaMazeto/Comandos-Git.git** - COPIA UM REPOSITÓRIO GIT NO SEU PC - MASTER
 
 * **git remote add origin https://github.com/IsabelaMazeto/Comandos-Git.git** - REFERENCIA UM REPOSITÓRIO GIT NO SEU PC - MASTER
 
