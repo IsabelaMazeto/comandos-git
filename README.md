@@ -1,4 +1,4 @@
-# Comandos-Git
+# comandos-git
 Aqui vai alguns comandos básicos do <a href="https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git" target="_blank">GIT</a> para iniciantes: ❤️
 
 * **git init** - INICIALIZA UM REPOSITÓRIO GIT NO SEU PC
